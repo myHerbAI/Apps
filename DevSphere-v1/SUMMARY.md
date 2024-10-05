@@ -1,7 +1,8 @@
 # Table of contents
 
 * [👋 DevSphere - Sustainable & Open-Source Developers Hub](README.md)
-  * [TerraSight EC: myHerb App Instructions](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions.md)
+  * [TerraSight EC: myHerb App Instructions](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/README.md)
+    * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/application-code-generation-and-structure.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
   * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
 
