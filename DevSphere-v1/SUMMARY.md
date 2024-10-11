@@ -8,6 +8,7 @@
 
 ## Overview
 
+* [Welcome to myHerb API Documentation](overview/welcome-to-myherb-api-documentation.md)
 * [💡 What we do at DevSphere](overview/what-we-do-at-devsphere.md)
 * [✨ Our Features](overview/our-features.md)
 
@@ -16,7 +17,6 @@
 * [Test the website's sustainability with PageSpeed](product-guides/test-the-websites-sustainability-with-pagespeed.md)
 * [Zapier Integration for Website Sustainability Testing](product-guides/zapier-integration-for-website-sustainability-testing.md)
 * [📪 Features for Sustainable Software Development](product-guides/features-for-sustainable-software-development.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
 
 ## Fundamentals
 
